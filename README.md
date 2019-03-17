@@ -1,1 +1,3 @@
-# lecture_spring_2019
+# Example repository with continuous integration
+
+Implemented for the lecture at TU Wien in spring 2019.
