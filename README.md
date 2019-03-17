@@ -1,3 +1,3 @@
 # Example repository with continuous integration
 
-Implemented for the lecture at TU Wien in spring 2019.
+This repository is used for teaching at TU Wien in spring 2019.
